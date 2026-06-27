@@ -322,3 +322,6 @@ Docker      █████████                          7 个规则
 [🌐 访问官方网站](https://awesome-cursorrules-zh.js.org/) · [⬆ 返回顶部](#awesome-cursor-rules-中文版)
 
 </div>
+
+
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework: PRDs, IA skeletons, FRR records, AC-YAML, coding-agent delivery. v4.9.2
